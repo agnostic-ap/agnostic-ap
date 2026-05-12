@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Aldrin;Full-stack+Developer;AI+Integration+%26+Automation;Building+Markdown-to-Image+Tools" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Aldrin · agnostic-ap</h1>
 
 <p align="center">
