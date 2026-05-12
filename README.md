@@ -21,39 +21,10 @@ Right now I am shaping my GitHub around practical open-source tools, polished ca
 
 ## Tech Stack
 
-<h3 align="center">Languages</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=70A5FD" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-1a1b27?style=for-the-badge&logo=kotlin&logoColor=BB9AF7" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=F7768E" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-1a1b27?style=for-the-badge&logo=php&logoColor=7AA2F7" alt="PHP" />
-</p>
-
-<h3 align="center">Frameworks</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue-1a1b27?style=for-the-badge&logo=vuedotjs&logoColor=9ECE6A" alt="Vue" />
-  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7DCFFF" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=C0CAF5" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Nuxt-1a1b27?style=for-the-badge&logo=nuxtdotjs&logoColor=9ECE6A" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7DCFFF" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Laravel-1a1b27?style=for-the-badge&logo=laravel&logoColor=F7768E" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Spring_Boot-1a1b27?style=for-the-badge&logo=springboot&logoColor=9ECE6A" alt="Spring Boot" />
-</p>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7AA2F7" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7DCFFF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=F7768E" alt="Redis" />
-  <img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=E0AF68" alt="Linux" />
-  <img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=9ECE6A" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude%20Code-1a1b27?style=for-the-badge&logo=anthropic&logoColor=BB9AF7" alt="Claude Code" />
-</p>
+**Languages:** TypeScript, JavaScript, Kotlin, Java, PHP  
+**Frontend:** Vue, React, Next.js, Nuxt, Tailwind CSS  
+**Backend:** Laravel, Spring Boot, MySQL, Redis  
+**Tools:** Git, Docker, Linux, OpenAI API
 
 ## Currently Working On
 
