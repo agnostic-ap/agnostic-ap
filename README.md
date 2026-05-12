@@ -69,15 +69,6 @@ Right now I am shaping my GitHub around practical open-source tools, polished ca
 - Building a Markdown-to-PNG/card tool for turning notes, code snippets, docs, and short-form writing into polished shareable images.
 - Building an investment review tool for recording decisions, replaying context, tracking results, and improving future judgment.
 
-## Pinned Projects
-
-| Project | Why it matters |
-| --- | --- |
-| `Markdown to PNG / Cards` | A focused content tool for turning Markdown into clean PNG exports, code cards, social cards, and reusable visual templates. |
-| `Investment Review Tool` | A personal analytics tool for trade notes, decision review, performance tracking, and repeatable investment retrospectives. |
-| `agnostic-ap` | A living GitHub profile that presents my full-stack, AI, automation, and product-building work more clearly. |
-| `Case Studies` | Public write-ups for commercial projects that cannot expose private client code. |
-
 ## GitHub Stats
 
 <p align="center">
@@ -85,13 +76,6 @@ Right now I am shaping my GitHub around practical open-source tools, polished ca
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agnostic-ap&theme=tokyonight" alt="Top languages" />
 </p>
 
-## Connect with Me
+---
 
-<p align="center">
-  <a href="mailto:dc23byte@gmail.com"><img src="https://img.shields.io/badge/Email-dc23byte%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=70A5FD" alt="Email" /></a>
-  <a href="https://gt2kk.cn"><img src="https://img.shields.io/badge/Portfolio-gt2kk.cn-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=70A5FD" alt="Portfolio" /></a>
-  <a href="https://github.com/agnostic-ap"><img src="https://img.shields.io/badge/GitHub-agnostic--ap-1a1b27?style=for-the-badge&logo=github&logoColor=70A5FD" alt="GitHub" /></a>
-  <!-- Add your LinkedIn profile when ready:
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70A5FD" alt="LinkedIn" /></a>
-  -->
-</p>
+<p align="center"><em>Thanks for visiting. Featured projects are pinned below.</em></p>
