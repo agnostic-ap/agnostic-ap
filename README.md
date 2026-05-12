@@ -56,34 +56,33 @@ Right now I am shaping my GitHub around practical open-source tools, polished ca
   <img src="https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=F7768E" alt="Redis" />
   <img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=E0AF68" alt="Linux" />
   <img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=9ECE6A" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude%20Code-1a1b27?style=for-the-badge&logo=anthropic&logoColor=BB9AF7" alt="Claude Code" />
 </p>
 
 ## Currently Working On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Markdown_to_Image-open_source_tool-7AA2F7?style=flat-square" alt="Markdown to Image" />
-  <img src="https://img.shields.io/badge/AI_Workflows-product_automation-BB9AF7?style=flat-square" alt="AI Workflows" />
-  <img src="https://img.shields.io/badge/HarmonyOS-hands_on_examples-9ECE6A?style=flat-square" alt="HarmonyOS" />
+  <img src="https://img.shields.io/badge/Markdown_to_PNG-card_generator-7AA2F7?style=flat-square" alt="Markdown to PNG" />
+  <img src="https://img.shields.io/badge/Investment_Review-decision_journal-BB9AF7?style=flat-square" alt="Investment Review" />
 </p>
 
-- Building an open-source Markdown-to-image tool for developers, writers, and makers.
-- Turning AI integration and automation experience into reusable workflows and small tools.
-- Continuing hands-on HarmonyOS/OpenHarmony examples and technical notes.
+- Building a Markdown-to-PNG/card tool for turning notes, code snippets, docs, and short-form writing into polished shareable images.
+- Building an investment review tool for recording decisions, replaying context, tracking results, and improving future judgment.
 
 ## Pinned Projects
 
 | Project | Why it matters |
 | --- | --- |
-| `Markdown to Image` | A focused developer tool for turning technical writing into polished, shareable images. |
-| `HelloHarmony` | A practical HarmonyOS/OpenHarmony learning lab with examples, notes, and small projects. |
-| `Aldrin` / `agnostic-ap` | A living portfolio that presents my full-stack, mobile, AI, and automation work more clearly. |
-| `Case studies` | Public write-ups for commercial projects that cannot expose private client code. |
+| `Markdown to PNG / Cards` | A focused content tool for turning Markdown into clean PNG exports, code cards, social cards, and reusable visual templates. |
+| `Investment Review Tool` | A personal analytics tool for trade notes, decision review, performance tracking, and repeatable investment retrospectives. |
+| `agnostic-ap` | A living GitHub profile that presents my full-stack, AI, automation, and product-building work more clearly. |
+| `Case Studies` | Public write-ups for commercial projects that cannot expose private client code. |
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agnostic-ap&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aldrin's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnostic-ap&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agnostic-ap&theme=tokyonight" alt="Aldrin's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agnostic-ap&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## Connect with Me
