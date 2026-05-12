@@ -19,12 +19,6 @@ I like turning rough product ideas into shipped software, from frontend architec
 My work has covered New Zealand client projects, WeChat Mini Programs, Android real-time communication apps, commercial automation scripts, and AI-assisted product workflows.  
 Right now I am shaping my GitHub around practical open-source tools, polished case studies, and developer-facing products that solve real workflow problems.
 
-## Tech Stack
-
-**Languages:** TypeScript, JavaScript, Kotlin, Java, PHP  
-**Frontend:** Vue, React, Next.js, Nuxt, Tailwind CSS  
-**Backend:** Laravel, Spring Boot, MySQL, Redis  
-**Tools:** Git, Docker, Linux, OpenAI API
 
 ## Currently Working On
 
