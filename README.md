@@ -27,7 +27,7 @@ Real, live, self-hosted software — not tutorials or forks.
 | **江苏自考帮** | [jszkbang.cn](https://jszkbang.cn) | Next.js · Fastify · Drizzle · PostgreSQL · Docker | One-stop exam-prep platform for Jiangsu self-study candidates: major planning, question bank, review, flashcards, AI explanations |
 | **MD2Card** | [mdcard.cn](https://mdcard.cn) | React · Vite · Fastify · SQLite | Turn Markdown into beautiful shareable knowledge-card images — live preview, themes, AI generation, one-click export, self-built analytics + admin |
 | **简历工作室** | [jianlistudio.cn](https://jianlistudio.cn) | Vue 3 · Vite · Ant Design | Online resume builder — editor, admin dashboard, backend API, multi-repo workspace with shared-config automation |
-| **逻辑支点** | WeChat Mini Program | Taro · React · Bun · Hono · SQLite | Investment decision journal — log the reasoning behind every trade, replay context, review outcomes |
+| **逻辑支点** | [lg.mdcard.cn](https://lg.mdcard.cn) · WeChat Mini Program | Taro · React · Bun · Hono · SQLite | Investment decision journal — log the reasoning behind every trade, replay context, review outcomes |
 
 Each one is the full stack in one pair of hands: I designed the product, wrote the frontend and backend, set up the database, and deployed and now run it in production (Caddy + PM2 + Docker on my own server).
 
@@ -38,13 +38,6 @@ Each one is the full stack in one pair of hands: I designed the product, wrote t
 **Data & Infra** PostgreSQL · SQLite · Redis · Drizzle · Docker · Caddy · PM2 · Linux VPS
 **Mobile** Kotlin (Android) · Uniapp · WeChat Mini Programs · TRTC · Tencent IM
 **AI** Claude Code / Codex agent workflows · OpenAI API · 通义千问
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agnostic-ap&theme=tokyonight" alt="Aldrin's GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agnostic-ap&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
